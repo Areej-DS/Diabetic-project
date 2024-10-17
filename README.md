@@ -3,7 +3,7 @@
 
 ## Dataset Overview
 
-The dataset contains the following columns:
+The dataset contains the following columns
 - **Pregnancies**: Number of times pregnant.
 - **Glucose**: Plasma glucose concentration 2 hours in an oral glucose tolerance test.
 - **BloodPressure**: Diastolic blood pressure (mm Hg).
