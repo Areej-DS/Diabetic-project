@@ -22,6 +22,6 @@ The dataset contains the following columns
 
 ## Installation
 
-To run this project, you need to have Python installed along with the following libraries:
+To run this project, you need to have Python installed along with the following libraries
 ```bash
 pip install pandas scikit-learn matplotlib seaborn
