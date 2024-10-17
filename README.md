@@ -14,7 +14,7 @@ The dataset contains the following columns:
 - **Age**: Age of the patient (years).
 - **Outcome**: Class variable (0 or 1) indicating whether the patient is diabetic (1) or not (0).
 
-#Usage Instructions
+Usage Instructions
 Load the dataset.
 Preprocess the data as necessary.
 Train the model using the provided code.
