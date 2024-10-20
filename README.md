@@ -1,5 +1,5 @@
 # Diabetic-project 
-# This ptoject involve try To build a model that predicts whether a patient has diabetes based on various features,
+# This ptoject involve try To build a model that predicts whether a patient has diabetes based on various features
 
 ## Dataset Overview
 
