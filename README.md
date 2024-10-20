@@ -20,8 +20,16 @@ The dataset contains the following columns
 3. **Train the model using the provided code.**
 4. **Evaluate the model on the test set.**
 
-## Installation
+## Requirements
 
-To run this project, you need to have Python installed along with the following libraries
+Make sure to install the following libraries:
+
+- `pandas`: for data analysis.
+- `scikit-learn`: for implementing machine learning models.
+- `matplotlib`: for plotting graphs.
+- `seaborn`: for data visualization.
+
+You can install them using `pip`:
+
 ```bash
 pip install pandas scikit-learn matplotlib seaborn
