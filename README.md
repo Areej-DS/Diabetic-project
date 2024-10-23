@@ -1,7 +1,7 @@
 # Diabetic-project 
 This ptoject involve try To build a model that predicts whether a patient has diabetes based on various features
 ## Data Sources
-[Diabetes Data Set](https://www.kaggle.com/datasets/mathchi/diabetes-data-set): A comprehensive dataset for diabetes analysis.
+[Diabetes Data Set](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database): A comprehensive dataset for diabetes analysis.
 
 ## Dataset Overview
 
